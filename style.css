@@ -1,0 +1,343 @@
+.logo > img {
+  height: 61px;
+  width: 115px;
+}
+
+.icon-user-header {
+  width: 14px;
+  height: 16px;
+}
+
+.icon-header {
+  width: 18px;
+  height: 16px;
+}
+
+.nav-item > a {
+  color: black;
+}
+
+.img-1 {
+  height: 790px;
+  background: url(/img/top/bg_keyvisual.jpg) no-repeat center/cover;
+}
+
+.header-top {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.title-keyvisual {
+  color: #333;
+  line-height: 1;
+  font-size: 72px;
+  margin-top: 17px;
+}
+
+.title-keyvisual,
+.intro-keyvisual {
+  text-align: center;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+}
+
+.intro-keyvisual {
+  font-weight: 500;
+  letter-spacing: 0.25em;
+  font-size: 20px;
+  margin-top: -21px;
+}
+
+.content-keyvisual::before {
+  content: "";
+  position: absolute;
+  background: url(/img/top/ttl_keyvisual.png) no-repeat center/cover;
+}
+
+.content-keyvisual::before {
+  top: 213px;
+  left: -9px;
+  width: 735px;
+  height: 248px;
+  margin-top: 5px;
+}
+
+.img-2 {
+  padding: 80px 0 205px;
+}
+
+.common-title .is-japanese,
+.common-title-3 .is-japanese,
+.common-title-4 .is-japanese {
+  margin-bottom: 6px;
+  color: #c5c5c5;
+  letter-spacing: 0.025em;
+  font-size: 14px;
+}
+
+.common-title span,
+.common-title-3 span,
+.common-title-4 span {
+  display: block;
+  font-weight: bold;
+}
+
+.common-title .is-english,
+.common-title-3 .is-english,
+.common-title-4 .is-english {
+  font-size: 27px;
+  color: #000;
+  font-family: "Raleway", sans-serif;
+}
+
+.underline {
+  border-bottom: 1px solid #333;
+  width: 100px;
+  padding-top: 20px;
+  margin-bottom: 37px;
+}
+
+.right-image {
+  width: 350px;
+  margin-left: -227px;
+  margin-bottom: -125px;
+}
+
+.common-button {
+  font-size: 16px;
+  min-width: 247px;
+  padding: 14px 36px;
+  margin-top: 42px;
+  min-height: 50px;
+  display: inline-block;
+  border: 1px solid #333;
+  color: #ffff;
+  background: #333;
+  text-align: center;
+  transition: background 0.3s, color 0.3s;
+}
+
+a {
+  color: #707070 !important;
+  text-decoration: none !important;
+}
+
+/* howver */
+.common-button:hover {
+  text-decoration: none;
+  background: #ffff;
+  color: #333;
+}
+
+/* set small icon-arrow */
+.icon-arrow {
+  width: 10px;
+  height: 18px;
+  margin-left: 2px;
+}
+
+.wrap-button.is-center {
+  text-align: center;
+}
+
+.img-3 {
+  height: 790px;
+  background: url(/img/top/bg_best_seller.png) no-repeat center/cover;
+}
+
+h2.common-title-3,
+h2.common-title-4 {
+  text-align: center;
+}
+
+.underline-2 {
+  border-bottom: 1px solid #333;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  margin-bottom: 45px;
+}
+
+.main-content-product {
+  text-align: center;
+}
+
+span.text-face.font-raleway {
+  margin-bottom: 5px;
+  color: #f4584b;
+  display: inline-block;
+  font-family: "Raleway", sans-serif;
+}
+
+h3.product-name {
+  font-size: 16px;
+  margin-bottom: 3px;
+  font-weight: 500;
+}
+
+.main-content-product .original-price {
+  color: #c5c5c5;
+  text-decoration-line: line-through;
+  margin-right: 15px;
+}
+
+.wrap-button {
+  text-align: center;
+}
+
+.img-3 {
+  padding: 40px 0 205px;
+}
+
+.img-4 {
+  margin-top: 85px;
+}
+
+.guide-block {
+  text-align: center;
+}
+
+.left-image-2 {
+  width: 372px;
+}
+
+.right-image-2 {
+  width: 390px;
+  margin-left: -158px;
+  margin-top: 125px;
+}
+
+h2.common-title-4 {
+  margin-bottom: 8px;
+}
+
+.guide-content.text-left {
+  margin: 0px 28px;
+}
+
+.wrap-button-2 {
+  text-align: inherit;
+}
+
+.section-5 {
+  padding: 65px 0 50px;
+}
+
+h3.advantage-title {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  color: #333;
+}
+
+.items-5 {
+  margin: 0 20px 20px;
+  padding-top: 15px;
+}
+
+.mb-47 {
+  margin-bottom: 47px;
+}
+
+.img-advantage {
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.advantage-center {
+  text-align: center;
+}
+
+p.common-text.text-size-5 {
+  font-size: small;
+}
+
+.section-6 {
+  padding: 80px 0;
+}
+
+.img-6 {
+  margin-bottom: 15px;
+}
+
+.h-advantage {
+  height: 480px;
+}
+
+.color-list > div {
+  margin: 0 5px;
+  width: 25px;
+  height: 25px;
+}
+
+.is-brown {
+  background-color: #a86f52;
+}
+
+.is-medium-brown {
+  background-color: #e4bd9b;
+}
+
+.is-light {
+  background-color: #f5e0cb;
+}
+
+.is-medium-light {
+  background-color: #f2c8b2;
+}
+
+/* howver and shadow img-6 */
+.product-link .img-6:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transition: box-shadow 0.3s;
+}
+
+.product-link {
+  display: block;
+}
+
+.row.select-list.justify-content-center {
+  margin-left: -16px;
+  margin-top: -55px;
+  padding-bottom: 30px;
+}
+
+.is-not-hover {
+  margin: 0px 4px;
+  visibility: hidden;
+}
+
+.product-link .img-6:hover + .select-list .is-not-hover {
+  visibility: visible;
+}
+
+.icon-testimonial {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.icon-testimonial img {
+  width: 48px;
+  height: 35px;
+}
+
+p.common-text-2 {
+  text-align: center;
+  width: 700px;
+  margin: auto;
+  margin-bottom: 45px;
+}
+
+div#carouselExampleIndicators.slide-name-7 {
+  text-align: center;
+}
+
+ol.carousel-indicators.hidden-7 {
+  visibility: hidden;
+}
+
