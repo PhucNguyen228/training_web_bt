@@ -413,16 +413,20 @@ p.mt-t-6 {
   margin-top: -6px;
 }
 
-/* .mt-t-6,
-.img-f-2 {
-  visibility: hidden;
-} */
-
 .mt-t-6 {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
 }
 
+.view-like {
+  visibility: hidden;
+}
+
+
 .organ-product .blur-img-f:hover {
   filter: blur(3px);
+}
+
+.organ-product .blur-img-f:hover + .view-like {
+  visibility: visible;
 }
